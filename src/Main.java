@@ -57,6 +57,7 @@ public class Main {
 
     public static int calsCarVersion(int distanse){
             int delivery;
+
             if (distanse <= 20) {
                 delivery = 1;
             } else if (distanse <= 60) {
